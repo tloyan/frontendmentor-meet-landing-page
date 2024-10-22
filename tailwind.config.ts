@@ -26,6 +26,9 @@ const config: Config = {
           300: "hsl(240, 18%, 85%)"
         },
         white: "hsl(0, 0%, 98%)"
+      },
+      spacing: {
+        18: '4.5rem',
       }
     },
   },
