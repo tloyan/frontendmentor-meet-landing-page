@@ -40,10 +40,10 @@ function Content() {
         collaborate across any device.
       </p>
       <div className="flex flex-col items-center justify-center gap-4 md:flex-row">
-        <button className="rounded-full bg-cyan-600 px-10 py-4 font-black text-white">
+        <button className="rounded-full bg-cyan-600 hover:bg-[#71C0D4] px-10 py-4 font-black text-white">
           Download <span className="text-cyan-300">v1.3</span>
         </button>
-        <button className="rounded-full bg-purple-600 px-10 py-4 font-black text-white">
+        <button className="rounded-full bg-purple-600 hover:bg-[#B18BDD] px-10 py-4 font-black text-white">
           What is it?
         </button>
       </div>
