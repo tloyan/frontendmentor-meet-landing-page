@@ -6,7 +6,7 @@ import imageWomen from "@/public/image-women-videochatting.jpg";
 
 export function Main() {
   return (
-    <main className="w-full space-y-16 p-8 pb-16 md:p-[44px] md:pt-[56px] lg:px-[80px] lg:pb-18  max-w-[1120px] flex flex-col items-center justify-center mx-auto lg:px-[0px]">
+    <main className="w-full space-y-16 p-8 pb-16 md:p-[44px] md:pt-[56px] lg:px-[80px] xl:px-0 lg:pb-18  max-w-[1120px] flex flex-col items-center justify-center mx-auto">
       <div className="flex flex-col items-center">
         <div className="h-20 w-[1px] bg-slate-300" />
         <p className="flex h-14 w-14 items-center justify-center rounded-full border border-[1px] border-slate-300 text-center text-slate-600">
