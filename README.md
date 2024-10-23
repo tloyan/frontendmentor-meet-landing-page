@@ -10,6 +10,7 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -38,6 +39,10 @@ Users should be able to:
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+### Continued development
+
+I need to adjust my perspective a bit. My approach with Tailwind isn’t completely wrong, but it could be better. I should start thinking more in terms of atomicity, using a component-based approach and atomic design principles. For example, I should probably create components like Button, Title, Paragraph, and so on. I’m considering trying Storybook, even if it feels a bit overkill, but after all, we’re here to practice and learn new things.
 
 ## Author
 
